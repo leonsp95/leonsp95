@@ -7,7 +7,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://i.imgur.com/8UwjAjY.png" alt="Object-Pascal" alt="Object-Pascal" height="50" />  
+<img style="margin: 10px" src="https://i.imgur.com/8UwjAjY.png" alt="Object-Pascal" height="50" />
+<img style="margin: 10px" src="https://cdn-media-1.freecodecamp.org/images/1*wUY_k-Q4q-z10Zo425qC5Q.png" alt="RegEx" height="50" />
 </div>
                                                                                                                                  
 </br>
