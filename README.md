@@ -46,6 +46,7 @@
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="XD" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="Pycharm" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height="50" />
+ </br>
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="50" />
 <img style="margin: 10px" src="https://insomnia.rest/images/insomnia-logo.svg" alt="Insomnia" height="50" />
 </div>
