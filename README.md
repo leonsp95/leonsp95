@@ -12,7 +12,7 @@
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
   
 </div>
-                                                                                                                                 
+                                                                                                                      
 </br>
 
 ### <div align="center">Operating Systems</div>  
@@ -30,10 +30,10 @@
 
 ### <div align="center">Browsers</div>  
 <div align="center">  
-<img style="margin: 5px" src="https://cdn.icon-icons.com/icons2/2552/PNG/512/edge_browser_logo_icon_152998.png" alt="Edge" height="50" />
-<img style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" alt="Firefox" height="50" />
-<img style="margin: 5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Otter_Browser_Logo.svg/512px-Otter_Browser_Logo.svg.png" alt="Otter" height="50" />
-<img style="margin: 5px" src="https://i.imgur.com/EEPSJTo.png" alt="Links" height="50" />
+<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2552/PNG/512/edge_browser_logo_icon_152998.png" alt="Edge" height="50" />
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" alt="Firefox" height="50" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Otter_Browser_Logo.svg/512px-Otter_Browser_Logo.svg.png" alt="Otter" height="50" />
+<img style="margin: 10px" src="https://i.imgur.com/EEPSJTo.png" alt="Links" height="50" />
   
 </div>
                                                                                                                                  
@@ -47,8 +47,8 @@
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="Pycharm" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="50" />
-  </br>
-<img style="margin: 10px" src="https://insomnia.rest/images/insomnia-logo.svg" alt="Insomnia" height="50" />
+<img style="margin: 10px" src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1561251841927-Insomnia.png" alt="Insomnia" height="50" />
+  
 </div>
                                                                                                                                  
 </br>
