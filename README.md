@@ -1,6 +1,6 @@
-### <div align="center">Hi, I'm Leon! ⚡</div>  
+## <div align="center">Hi, I'm Leon! ⚡</div>  
 
-### <div align="center">Currently Learning</div>  
+### <div align="center">𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠</div>  
 <div align="center">  
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" alt="Julia" height="50" />
@@ -15,7 +15,7 @@
                                                                                                                       
 </br>
 
-### <div align="center">Operating Systems</div>  
+### <div align="center">𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦𝐬</div>  
 <div align="center">  
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows 10" height="50" />
 <img style="margin: 10px" src="https://cdn.jim-nielsen.com/macos/512/macos-catalina-2019-10-08.png" alt="macOS Catalina" height="50" />
@@ -29,7 +29,7 @@
                                                                                                                                  
 </br>
 
-### <div align="center">Browsers</div>  
+### <div align="center">𝐁𝐫𝐨𝐰𝐬𝐞𝐫𝐬</div>  
 <div align="center">  
 <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2552/PNG/512/edge_browser_logo_icon_152998.png" alt="Edge" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" alt="Firefox" height="50" />
@@ -40,7 +40,7 @@
                                                                                                                                  
 </br>
 
-### <div align="center">Tools</div>  
+### <div align="center">𝐓𝐨𝐨𝐥𝐬</div>  
 <div align="center">  
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" alt="Heroku" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Ilustrator" height="50" />
@@ -55,7 +55,7 @@
                                                                                                                                  
 </br>
 
-### <div align="center">My Stats</div> 
+### <div align="center">𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬</div> 
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=leonsp95&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonsp95&layout=compact" align="center" /></div>
