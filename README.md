@@ -1,4 +1,4 @@
-## <div align="center">Hi, I'm Leon! ⚡</div>  
+## <div align="center">Leon</div>  
 
 ### <div align="center">𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠</div>  
 <div align="center">  
