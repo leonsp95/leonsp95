@@ -34,6 +34,7 @@
 <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2552/PNG/512/edge_browser_logo_icon_152998.png" alt="Edge" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" alt="Firefox" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Otter_Browser_Logo.svg/512px-Otter_Browser_Logo.svg.png" alt="Otter" height="50" />
+<img style="margin: 10px" src="https://vchrombiediary.files.wordpress.com/2018/03/webpositive.png" alt="Otter" height="50" />
 <img style="margin: 10px" src="https://i.imgur.com/EEPSJTo.png" alt="Links" height="50" />
   
 </div>
