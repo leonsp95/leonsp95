@@ -22,6 +22,8 @@
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1200px-Manjaro-logo.svg.png" alt="Manjaro" height="50" />
 <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/haiku_os_logo_icon_171018.png" alt="Haiku" height="50" />
+<img style="margin: 10px" src="https://seeklogo.com/images/F/freebsd-logo-542DF4765A-seeklogo.com.png" alt="FreeBSD" height="50" />
+<img style="margin: 10px" src="https://static-cdn.osdn.net/thumb/g/6/672/800x600_0.png" alt="Regata" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" alt="Android" height="50" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Windows_Logo_%281992-2001%29.svg/1024px-Windows_Logo_%281992-2001%29.svg.png" alt="Windows 98" height="50" />  
 
